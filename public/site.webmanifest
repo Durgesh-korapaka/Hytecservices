@@ -1,0 +1,13 @@
+{
+  "name": "AV Appliance Services — Vijayawada",
+  "short_name": "AV Appliance",
+  "description": "AC, refrigerator and washing machine repair at your home in Vijayawada.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1257D6",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
